@@ -1,4 +1,5 @@
-{
+[
+  {
   "country": "Lithuania",
   "litres": 501.9
 }, {
@@ -26,3 +27,4 @@
   "country": "The Netherlands",
   "litres": 50
 }
+  ]
