@@ -1,10 +1,10 @@
 {
 	"value": 6664,
-	"statistics": {
+	"statistics": [
 		{ "name": "desktop", "value": 20},
 		{ "name": "mobile", "value": 33},
 		{ "name": "tablet", "value": 47}
-	},
+	],
 	
 	"message": "Active Visit On Sites"
 }
